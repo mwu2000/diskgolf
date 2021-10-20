@@ -1,4 +1,6 @@
 
+[![R-CMD-check](https://github.com/mwu2000/diskgolf/actions/workflows/check-standard.yaml/badge.svg)](https://github.com/mwu2000/diskgolf/actions/workflows/check-standard.yaml)
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # diskgolf
